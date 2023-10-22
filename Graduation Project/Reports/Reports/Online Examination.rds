@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Online Examination">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-UF0D9MV\MSSQLSERVER1;Initial Catalog=iti_pro</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source Online Examination</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>0df23ee3-2be8-4712-8e70-faf5e2203c6c</DataSourceID>
+</RptDataSource>

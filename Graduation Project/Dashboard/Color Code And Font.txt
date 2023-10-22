@@ -1,0 +1,6 @@
+Font Type : Times New Roman
+
+#A8201A : 
+#0F8B8D : 
+#E6E6E6 : 
+	
